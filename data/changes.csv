@@ -1,0 +1,6 @@
+date,funnel_id,category,description,severity,affected_stages
+2025-01-10,summer-sale,ad,Changed hero image in ad creative,3,impression;click
+2025-01-14,summer-sale,site,Deployed new landing page design with updated form,4,landing;lead
+2025-01-12,*,external,Competitor launched flash sale,2,
+2025-01-15,summer-sale,tracking,Updated Meta pixel to v2,3,impression;click;landing
+2025-01-08,summer-sale,pricing,Increased product price by 10%,2,lead;purchase
